@@ -25,3 +25,4 @@ Here are some ideas to get you started:
    * [Modern Distributed C++ with Ray](https://www.anyscale.com/blog/modern-distributed-c-with-ray)
 - 📫 My talks
    * [掘力计划21期：Ray: 大模型时代的AI计算基础设施](https://www.bilibili.com/video/BV1UG411Z7X7/?share_source=copy_web&vd_source=9e1e3e6d1767668783b6cf66c21a90c4)
+   * [Datafun数据基础架构峰会](https://mp.weixin.qq.com/s/igaCn7Ch7GnPjJ_L2A6zLA)
